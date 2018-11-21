@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">NJ Lucky Number</string>
+    <string name="news1">News</string>
+    <string name="mynum">My Numbers</string>
+    <string name="fortune">Horoscope</string>
+    <string name="title">"Better than Quick Pick"</string>
+
+    //for my numbers
+    <string name="mytitle">My Numbers</string>
+    <string name="myhead">Write down and save your numbers</string>
+    <string name="mysave">Save</string>
+    <string name="myedit">Edit</string>
+    <string name="myclose">Close</string>
+
+    <string name="local">Newspaper</string>
+    <string name="national">News Channel</string>
+    <string name="sports1">Major League</string>
+    <string name="sports2">Shopping</string>
+
+    <string-array name="newsPaper">
+        <item>Star Ledger</item>
+        <item>Ny Times</item>
+        <item>Wall Street</item>
+        <item>Daily News</item>
+        <item>New York Post</item>
+        <item>Herald News</item>
+    </string-array>
+    <string-array name="national">
+        <item>CNN</item>
+        <item>FOX News</item>
+        <item>ABC</item>
+        <item>CBS</item>
+        <item>ESPN</item>
+    </string-array>
+    <string-array name="majorLeague">
+        <item>NFL</item>
+        <item>NBA</item>
+        <item>MLB</item>
+        <item>NHL</item>
+        <item>MLS</item>
+    </string-array>
+    <string-array name="shopping">
+        <item>Coupons</item>
+        <item>Amazon</item>
+        <item>Walmart</item>
+        <item>Ebay</item>
+        <item>Retail Me Not</item>
+    </string-array>
+
+    <string-array name="fortunelist">
+        <item>Jokes</item>
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+    <string name="power">Powerball</string>
+    <string name="ptitle">Powerball</string>
+    <string name="ptitle1">Number</string>
+    <string name="pnum1" />
+    <string name="pnum2" />
+    <string name="pnum3" />
+    <string name="pnum4" />
+    <string name="pnum5" />
+    <string name="pwinnum" />
+    <string name="Result">Result</string>
+    <string name="Analysis">Analysis</string>
+    <string name="More">MORE</string>
+    <string name="Clear">Clear</string>
+
+    <string name="mega">Mega Millions</string>
+
+    <string name="mtitle">Megaball</string>
+    <string name="mtitle1">Number</string>
+    <string name="mnum1" />
+    <string name="mnum2" />
+    <string name="mnum3" />
+    <string name="mnum4" />
+    <string name="mnum5" />
+    <string name="mwinnum" />
+
+    <string name="lucky">Cash 4 Life</string>
+    <string name="ltitle">Cashball</string>
+    <string name="ltitle1">Number</string>
+    <string name="lnum1" />
+    <string name="lnum2" />
+    <string name="lnum3" />
+    <string name="lnum4" />
+    <string name="lnum5" />
+    <string name="lwinnum" />
+
+
+    <string name="pick3">Pick 3</string>
+    <string name="p3num1" />
+
+    <string name="pick4">Pick 4</string>
+    <string name="p4num1" />
+
+    <string name="pick5">Jersey Cash 5</string>
+    <string name="p5num1" />
+    <string name="p5num2" />
+    <string name="p5num3" />
+    <string name="p5num4" />
+    <string name="p5num5" />
+
+    <string name="pick6">Pick 6</string>
+    <string name="p6num1" />
+    <string name="p6num2" />
+    <string name="p6num3" />
+    <string name="p6num4" />
+    <string name="p6num5" />
+    <string name="p6winnum" />
+
+    <string name="quickdraw">Quick Draw</string>
+    <string name="spots">Number of Spots:</string>
+    <string name="qdnum1" />
+    <string name="qdnum2" />
+    <string name="qdnum3" />
+    <string name="qdnum4" />
+    <string name="qdnum5" />
+    <string name="qdnum6" />
+    <string name="qdnum7" />
+    <string name="qdnum8" />
+    <string name="qdnum9" />
+    <string name="qdnum10" />
+
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="foot">Best of Luck</string>
+    <string name="addiction">Are you addicted to Lottery?</string>
+    <string name="feedback">Send us your Recomendation.</string>
+    <string name="fhint">Write Here</string>
+    <string name="ftitle">Recomendation</string>
+    <string name="feed">We are glad to have you. Please send us your feedback and suggestions to improve this application and make it easier for other to use.</string>
+    <string name="fSend">Send</string>
+    <string name="fCancel">Cancel</string>
+
+    <string name="note">Note: All the results are from official New Jersey State Lottery Website.</string>
+
+
+</resources>
